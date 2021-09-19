@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-static-joblisting/static/css/main.69cda897.chunk.css",
+    "main.js": "/react-static-joblisting/static/js/main.b370ced8.chunk.js",
+    "main.js.map": "/react-static-joblisting/static/js/main.b370ced8.chunk.js.map",
+    "runtime-main.js": "/react-static-joblisting/static/js/runtime-main.2ebaf0c4.js",
+    "runtime-main.js.map": "/react-static-joblisting/static/js/runtime-main.2ebaf0c4.js.map",
+    "static/js/2.2604dbab.chunk.js": "/react-static-joblisting/static/js/2.2604dbab.chunk.js",
+    "static/js/2.2604dbab.chunk.js.map": "/react-static-joblisting/static/js/2.2604dbab.chunk.js.map",
+    "index.html": "/react-static-joblisting/index.html",
+    "static/css/main.69cda897.chunk.css.map": "/react-static-joblisting/static/css/main.69cda897.chunk.css.map",
+    "static/js/2.2604dbab.chunk.js.LICENSE.txt": "/react-static-joblisting/static/js/2.2604dbab.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-static-joblisting/static/media/bg-header-mobile.9cb13612.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ebaf0c4.js",
+    "static/js/2.2604dbab.chunk.js",
+    "static/css/main.69cda897.chunk.css",
+    "static/js/main.b370ced8.chunk.js"
+  ]
+}
